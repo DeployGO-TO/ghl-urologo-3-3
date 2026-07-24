@@ -1,0 +1,4 @@
+/* eslint-disable */
+export default function Hero() {
+  return <div dangerouslySetInnerHTML={{ __html: "<section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"></section>" }} />;
+}

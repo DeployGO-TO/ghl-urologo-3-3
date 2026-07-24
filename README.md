@@ -1,2 +1,10 @@
-# ghl-urologo-3-3
-Exportado desde GHL por GHL Exporter AI — UROLOGO 3
+# ghl-urologo-3
+
+Generado automáticamente por **GHL Exporter AI**.
+
+## Iniciar
+
+```bash
+npm install
+npm run dev
+```
